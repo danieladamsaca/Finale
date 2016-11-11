@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.danieladams.android.aca.finale.AboutFragment"
+    android:background="@color/colorAccent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:textColor="@color/text_primary"
+        android:layout_margin="10dp"
+        android:text="New Android Developer, Wanted to make an App to display what i've learned in class as well as  my personal interest.  " />
+
+</RelativeLayout>
